@@ -1,0 +1,90 @@
+*{
+	margin:0 auto;
+	padding:0;
+	box-sizing:border-box;
+	font-family:arial,Sans-serif;
+	background-color:red;
+}	
+#btn{
+	margin:50px 0 0 30px;
+	text-align:center;
+}
+.prim_btn{
+	padding:15px 20px;
+	border:none;
+	border-radius:5px;
+	color:white;
+	background-color:#076af9;
+	text-decoration:none;
+	cursor:default;
+}
+.sec_btn{
+	padding:15px 20px;
+	border:none;
+	border-radius:5px;
+	color:white;
+	background-color:#6d747e;
+	text-decoration:none;
+	cursor:default;
+}
+.suc_btn{
+	padding:15px 20px;
+	border:none;
+	border-radius:5px;
+	color:white;
+	background-color:#198c56;
+	text-decoration:none;
+	cursor:default;
+}
+.dgr_btn{
+	padding:15px 20px;
+	border:none;
+	border-radius:5px;
+	color:white;
+	background-color:#dc3445;
+	text-decoration:none;
+	cursor:default;
+}
+.wrng_btn{
+	padding:15px 20px;
+	border:none;
+	border-radius:5px;
+	color:white;
+	background-color:#fec006;
+	text-decoration:none;
+	cursor:default;
+}
+.info_btn{
+	padding:15px 20px;
+	border:none;
+	border-radius:5px;
+	color:white;
+	background-color:#0ccaf1;
+	text-decoration:none;
+	cursor:default;
+}
+.lit_btn{
+	padding:15px 20px;
+	border:none;
+	border-radius:5px;
+	color:#111111;
+	background-color:#f9f9fb;
+	text-decoration:none;
+	cursor:default;
+}
+.dark_btn{
+	padding:15px 20px;
+	border:none;
+	border-radius:5px;
+	color:white;
+	background-color:#202427;
+	text-decoration:none;
+	cursor:default;
+}
+.link{
+	text-decoration:underline;
+	cursor:pointer;
+	background-color:transparent;
+	color:blue;
+	border:none;
+}
